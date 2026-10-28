@@ -31,7 +31,7 @@ The model was tested using test images.
 
 The model can predict age, but some predictions may be incorrect.
 
-## 5. Ethics and Limitations
+## 5.Limitations
 
 - **Lighting:** Poor lighting may affect the results.
 - **Image Quality:** Blurry images may reduce accuracy.
