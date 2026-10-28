@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 from tensorflow.keras.models import load_model
 
-model = load_model("/content/age_model.keras")
+model = load_model("age_model.keras")
 
 st.title("Age Estimator")
 
