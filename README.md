@@ -1,4 +1,4 @@
-# Age Estimation from Face Images
+# Age Estimation from Face Image
 
 ## 1. Project Overview
 
